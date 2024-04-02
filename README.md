@@ -3,7 +3,7 @@
 </p>
 
 # RSC Autopost Service
-A robust and versatile solution for automated service marketing through Python, developed for RSC.
+A robust and versatile solution for automated service marketing through Python, developed for RSC. *I personally do not run this, and I have no responsibility for the users of this resource.*
 
 ## Installation
 ### 1. Package Installation
