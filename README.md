@@ -1,9 +1,11 @@
+## *I personally do not run this, and I have no responsibility for the users of this resource. This project was merely made to test my limits in NodeJS. DO NOT USE THIS IN PRODUCTION ENVIRONMENT, WITHOUT STAFF PERMISSION.*
+
 <p align="left">
   <img src="https://i.ibb.co/gtF1VDD/a-00ff59fddbd60489df84407fb285f7ca-ezgif-com-resize.gif" />
 </p>
 
 # RSC Automated Posting Service
-A robust and versatile solution for automated service marketing through Python, developed for RSC. *I personally do not run this, and I have no responsibility for the users of this resource.*
+A robust and versatile solution for automated service marketing through Python, developed for RSC. 
 
 ## Installation
 ### 1. Package Installation
