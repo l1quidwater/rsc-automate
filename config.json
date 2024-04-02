@@ -1,0 +1,6 @@
+{
+    "token": "",
+    "log_webhook": "https://canary.discord.com/api/webhooks/XXXXXXXXXXXXXXXXXXXX/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "for_hire_channel_id": "WARNING: Because of JS Bafoonery, you must go to /src/client.js and change the channel ID if you wish to use #hiring .",
+    "time_period": 21600
+}
