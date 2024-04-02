@@ -17,6 +17,6 @@ A robust and versatile solution for automated service marketing through Python, 
 - Navigate to the /src/ folder by running `cd src`
 - Execute `node ./client.js`
 
-# Credits
+## Credits
 - adam64 - **Programming**
 - Malte0628 - **Debugging/Help**
