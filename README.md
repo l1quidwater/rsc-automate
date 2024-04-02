@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://i.ibb.co/gtF1VDD/a-00ff59fddbd60489df84407fb285f7ca-ezgif-com-resize.gif" />
 </p>
-# RSC Autopost Service
 
+# RSC Autopost Service
 A robust and versatile solution for automated service marketing through Python, developed for RSC.
 
 ## Installation
