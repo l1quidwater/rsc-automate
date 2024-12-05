@@ -1,4 +1,3 @@
-# **fuck rsc WE BALL ❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥**
 
 <p align="left">
   <img src="https://i.ibb.co/gtF1VDD/a-00ff59fddbd60489df84407fb285f7ca-ezgif-com-resize.gif" />
